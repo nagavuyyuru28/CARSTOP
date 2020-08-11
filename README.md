@@ -1,6 +1,6 @@
-# ND035-P02-VehiclesAPI-Project
+# CARSTOP
 
-Project repository for JavaND Project 2, where students implement a Vehicles API using Java and Spring Boot that can communicate with separate location and pricing services.
+Backend system for a website of cars using Java and Spring Boot which is composed of vehicles list services (a REST API to maintain vehicles data), pricing services (a REST API to retrieve the price of a vehicle), and location services (an HTTP client to retrieve the location of the vehicle)
 
 ## Instructions
 
